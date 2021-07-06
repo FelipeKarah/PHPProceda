@@ -1,5 +1,5 @@
 {
-    "name": "fcunha/proceda",
+    "name": "FCunha/Proceda",
     "type": "library",
     "description": "Projeto para comunicação via EDI entre transportadora e remetente com métodos para decodificação e codificação de arquivos no formato Proceda",
     "authors": [
