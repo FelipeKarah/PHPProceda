@@ -20,5 +20,6 @@
     },
     "scripts": {
         "tests": "php vendor/bin/phpunit tests"
-    }
+    },
+    "prefer-stable": true
 }
