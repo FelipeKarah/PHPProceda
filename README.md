@@ -19,7 +19,7 @@ Projeto para comunicação via EDI entre transportadora e remetente com métodos
 No cmd, dentro do diretório selecionado, digite o comando abaixo:
 
 ```shell
-composer require mtelesborges/php-chromedriver-manager
+composer require fcunha/proceda
 ```
 
 ## Como usar
