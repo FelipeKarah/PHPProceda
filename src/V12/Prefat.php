@@ -1,8 +1,8 @@
 <?php
 
-namespace App\V12;
+namespace FCunha\V12;
 
-use App\Proceda;
+use FCunha\Proceda;
 
 class Prefat extends Proceda
 {

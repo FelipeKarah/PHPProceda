@@ -1,8 +1,8 @@
 <?php
 
-namespace App\V55;
+namespace FCunha\V55;
 
-use App\Proceda;
+use FCunha\Proceda;
 
 class Doccob extends Proceda
 {

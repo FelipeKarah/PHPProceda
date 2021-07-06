@@ -1,6 +1,6 @@
 <?php
 
-namespace App;
+namespace FCunha;
 
 abstract class Proceda implements IProceda
 {

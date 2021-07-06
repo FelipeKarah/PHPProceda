@@ -1,8 +1,8 @@
 <?php
 
-namespace App\V31;
+namespace FCunha\V31;
 
-use App\Proceda;
+use FCunha\Proceda;
 
 class Conemb extends Proceda
 {

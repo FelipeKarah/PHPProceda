@@ -1,11 +1,10 @@
 <?php
 
-use App\V31\Ocoren;
-use App\V30\Doccob;
+use FCunha\V31\Ocoren;
+use FCunha\V30\Doccob;
 
 require "./vendor/autoload.php";
 
-$file = file("./vars/doccob");
 $file = <<<CONTENT
 000                                   33722100                           2406211107COB240611070                                                                           
 350COBRA240611070                                                                                                                                                         
